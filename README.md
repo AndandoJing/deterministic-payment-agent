@@ -56,6 +56,19 @@ Solana makes this type of deterministic payment execution practical.
 
 ---
 
+## Demo
+
+[Watch the Demo Video](https://www.youtube.com/watch?v=6AV1pOrRklc)
+
+This demo shows:
+- deterministic escrow settlement
+- permissionless execution
+- refund-after-deadline logic
+- unauthorized verifier protection
+- double execution prevention
+
+---
+
 # Architecture & Use Case Flow
 
 ![Architecture](./docs/architecture.png)
