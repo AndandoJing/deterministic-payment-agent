@@ -69,6 +69,12 @@ This demo shows:
 
 ---
 
+## Founder Pitch
+
+https://youtu.be/AAWAlwlXKPM
+
+---
+
 # Architecture & Use Case Flow
 
 ![Architecture](./docs/architecture.png)
